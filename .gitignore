@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+raw_data.json
+enriched_sample.json
+.system_generated/
